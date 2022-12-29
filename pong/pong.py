@@ -58,7 +58,7 @@ def paddle_a_down():
     y -= 20
     paddle_a.sety(y)
 
-#--------- B -çl----------#
+#--------- B -----------#
 
 def paddle_b_up():
     y = paddle_b.ycor()
